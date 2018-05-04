@@ -1,8 +1,12 @@
 # unity-direct-sdkintegration
 1) Create your app in Unity IDE.
+
 2)go to file/buildsettings->builSystem Gradle ->playerSettings ->select minify release & debug gradle -> put your bundleId in othersettings/identification/packageName. 
+
 3)click build & run to see your app running in the connected android device.
+
 ---We Assume you have already gone through the above process and running unity app on android device -----------
+
 
 ---- go throug our documentayion to import unity package and code your .cs file ---------
 4) go to your project folder->Temp-> gradleOut and copy build.gradle and save it somewhere . open it in any IDE or texteditor. 
